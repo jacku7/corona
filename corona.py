@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from scipy.optimize import minimize
-from scipy.integrate import solve_ivp
+from scipy.integrate import solve_ivp, odeint
 from sklearn.metrics import mean_squared_error
 
 
@@ -19,26 +19,40 @@ cases = stuff(cases)
 recovered = stuff(recovered)
 
 s = 37674666
-i = 10
+# s = 330617954
+e = 10
+i = 0
 r = 0
+N = s + e + i + r
 
 
-def cost(parameters, cases, recovered, S0, I0, R0):
-    def SIR(t, y):
-        S, I, R = y
-        dS = -beta * S * I
-        dR = gamma * I
-        dI = dS - dR
-        return dS, dI, dR
+def cost(parameters, S0, E0, I0, R0):
+    def deriv(y, t):
+        # S, E, I, R = y
+        # dSdt = -beta * S * I / N
+        # dIdt = beta * S * I / N - gamma * I
+        # dRdt = gamma * I
+        # return dSdt, dIdt, dRdt
+        S, E, I, R = y
+        dSdt = - beta * (S * I) / N
+        dEdt = beta * (S * I) / N - sigma * E
+        dIdt = sigma * E - gamma * I
+        dRdt = gamma * I
+        return dSdt, dEdt, dIdt, dRdt
 
-    beta, gamma = parameters
-    res = solve_ivp(SIR, [0, len(cases)], (S0, I0, R0), t_eval=np.arange(0, len(cases), 1), vectorized=True)
+    beta, gamma, sigma = parameters
+    y0 = S0, E0, I0, R0
+    t = np.linspace(0, len(cases), len(cases))
+    ret = odeint(deriv, y0, t)
 
-    mse_cases = mean_squared_error(res.y[0], cases)
-    mse_recovered = mean_squared_error(res.y[1], recovered)
-    return mse_cases + mse_recovered
+    S, E, I, R = ret.T
+    mse_cases = mean_squared_error(I, cases)
+    mse_recovery = mean_squared_error(R, recovered)
 
+    return mse_cases + mse_recovery
 
-b, g = minimize(cost, [0.25, 1/21], args=(cases, recovered, s, i, r), bounds=[(0.01, 0.5), (1/21, 1/7)],
-                options={"maxiter": 1})
+test = minimize(cost, (0.12908239, 0.0266665 , 1.82139425), args=(s, e, i, r), bounds=[(0, 1), (0, 1), (0, 10)])
+
+print(test)
+
 
