@@ -1,0 +1,1093 @@
+date,province,recovered
+2020-01-25,Alberta,0
+2020-01-26,Alberta,0
+2020-01-27,Alberta,0
+2020-01-28,Alberta,0
+2020-01-29,Alberta,0
+2020-01-30,Alberta,0
+2020-01-31,Alberta,0
+2020-02-01,Alberta,0
+2020-02-02,Alberta,0
+2020-02-03,Alberta,0
+2020-02-04,Alberta,0
+2020-02-05,Alberta,0
+2020-02-06,Alberta,0
+2020-02-07,Alberta,0
+2020-02-08,Alberta,0
+2020-02-09,Alberta,0
+2020-02-10,Alberta,0
+2020-02-11,Alberta,0
+2020-02-12,Alberta,0
+2020-02-13,Alberta,0
+2020-02-14,Alberta,0
+2020-02-15,Alberta,0
+2020-02-16,Alberta,0
+2020-02-17,Alberta,0
+2020-02-18,Alberta,0
+2020-02-19,Alberta,0
+2020-02-20,Alberta,0
+2020-02-21,Alberta,0
+2020-02-22,Alberta,0
+2020-02-23,Alberta,0
+2020-02-24,Alberta,0
+2020-02-25,Alberta,0
+2020-02-26,Alberta,0
+2020-02-27,Alberta,0
+2020-02-28,Alberta,0
+2020-02-29,Alberta,0
+2020-03-01,Alberta,0
+2020-03-02,Alberta,0
+2020-03-03,Alberta,0
+2020-03-04,Alberta,0
+2020-03-05,Alberta,0
+2020-03-06,Alberta,0
+2020-03-07,Alberta,0
+2020-03-08,Alberta,0
+2020-03-09,Alberta,0
+2020-03-10,Alberta,0
+2020-03-11,Alberta,0
+2020-03-12,Alberta,0
+2020-03-13,Alberta,0
+2020-03-14,Alberta,0
+2020-03-15,Alberta,0
+2020-03-16,Alberta,0
+2020-03-17,Alberta,0
+2020-03-18,Alberta,0
+2020-03-19,Alberta,3
+2020-03-20,Alberta,4
+2020-03-21,Alberta,4
+2020-03-22,Alberta,4
+2020-03-23,Alberta,4
+2020-03-24,Alberta,5
+2020-03-25,Alberta,5
+2020-03-26,Alberta,29
+2020-03-27,Alberta,35
+2020-03-28,Alberta,55
+2020-03-29,Alberta,76
+2020-03-30,Alberta,102
+2020-03-31,Alberta,129
+2020-04-01,Alberta,153
+2020-04-02,Alberta,187
+2020-04-03,Alberta,214
+2020-04-04,Alberta,216
+2020-04-05,Alberta,302
+2020-04-06,Alberta,385
+2020-04-07,Alberta,473
+2020-04-08,Alberta,548
+2020-04-09,Alberta,624
+2020-04-10,Alberta,752
+2020-04-11,Alberta,814
+2020-04-12,Alberta,867
+2020-04-13,Alberta,923
+2020-04-14,Alberta,962
+2020-04-15,Alberta,962
+2020-04-16,Alberta,964
+2020-04-17,Alberta,1174
+2020-01-25,BC,0
+2020-01-26,BC,0
+2020-01-27,BC,0
+2020-01-28,BC,0
+2020-01-29,BC,0
+2020-01-30,BC,0
+2020-01-31,BC,0
+2020-02-01,BC,0
+2020-02-02,BC,0
+2020-02-03,BC,0
+2020-02-04,BC,0
+2020-02-05,BC,0
+2020-02-06,BC,0
+2020-02-07,BC,0
+2020-02-08,BC,0
+2020-02-09,BC,0
+2020-02-10,BC,0
+2020-02-11,BC,0
+2020-02-12,BC,0
+2020-02-13,BC,0
+2020-02-14,BC,0
+2020-02-15,BC,0
+2020-02-16,BC,0
+2020-02-17,BC,0
+2020-02-18,BC,0
+2020-02-19,BC,1
+2020-02-20,BC,1
+2020-02-21,BC,1
+2020-02-22,BC,1
+2020-02-23,BC,1
+2020-02-24,BC,1
+2020-02-25,BC,4
+2020-02-26,BC,4
+2020-02-27,BC,4
+2020-02-28,BC,4
+2020-02-29,BC,4
+2020-03-01,BC,4
+2020-03-02,BC,4
+2020-03-03,BC,4
+2020-03-04,BC,4
+2020-03-05,BC,4
+2020-03-06,BC,4
+2020-03-07,BC,4
+2020-03-08,BC,5
+2020-03-09,BC,5
+2020-03-10,BC,5
+2020-03-11,BC,5
+2020-03-12,BC,5
+2020-03-13,BC,6
+2020-03-14,BC,6
+2020-03-15,BC,6
+2020-03-16,BC,9
+2020-03-17,BC,12
+2020-03-18,BC,12
+2020-03-19,BC,13
+2020-03-20,BC,15
+2020-03-21,BC,16
+2020-03-22,BC,16
+2020-03-23,BC,113
+2020-03-24,BC,186
+2020-03-25,BC,197
+2020-03-26,BC,200
+2020-03-27,BC,291
+2020-03-28,BC,413
+2020-03-29,BC,413
+2020-03-30,BC,488
+2020-03-31,BC,531
+2020-04-01,BC,631
+2020-04-02,BC,672
+2020-04-03,BC,708
+2020-04-04,BC,742
+2020-04-05,BC,742
+2020-04-06,BC,822
+2020-04-07,BC,848
+2020-04-08,BC,886
+2020-04-09,BC,908
+2020-04-10,BC,934
+2020-04-11,BC,963
+2020-04-12,BC,963
+2020-04-13,BC,995
+2020-04-14,BC,1014
+2020-04-15,BC,1030
+2020-04-16,BC,1043
+2020-04-17,BC,1044
+2020-01-25,Manitoba,0
+2020-01-26,Manitoba,0
+2020-01-27,Manitoba,0
+2020-01-28,Manitoba,0
+2020-01-29,Manitoba,0
+2020-01-30,Manitoba,0
+2020-01-31,Manitoba,0
+2020-02-01,Manitoba,0
+2020-02-02,Manitoba,0
+2020-02-03,Manitoba,0
+2020-02-04,Manitoba,0
+2020-02-05,Manitoba,0
+2020-02-06,Manitoba,0
+2020-02-07,Manitoba,0
+2020-02-08,Manitoba,0
+2020-02-09,Manitoba,0
+2020-02-10,Manitoba,0
+2020-02-11,Manitoba,0
+2020-02-12,Manitoba,0
+2020-02-13,Manitoba,0
+2020-02-14,Manitoba,0
+2020-02-15,Manitoba,0
+2020-02-16,Manitoba,0
+2020-02-17,Manitoba,0
+2020-02-18,Manitoba,0
+2020-02-19,Manitoba,0
+2020-02-20,Manitoba,0
+2020-02-21,Manitoba,0
+2020-02-22,Manitoba,0
+2020-02-23,Manitoba,0
+2020-02-24,Manitoba,0
+2020-02-25,Manitoba,0
+2020-02-26,Manitoba,0
+2020-02-27,Manitoba,0
+2020-02-28,Manitoba,0
+2020-02-29,Manitoba,0
+2020-03-01,Manitoba,0
+2020-03-02,Manitoba,0
+2020-03-03,Manitoba,0
+2020-03-04,Manitoba,0
+2020-03-05,Manitoba,0
+2020-03-06,Manitoba,0
+2020-03-07,Manitoba,0
+2020-03-08,Manitoba,0
+2020-03-09,Manitoba,0
+2020-03-10,Manitoba,0
+2020-03-11,Manitoba,0
+2020-03-12,Manitoba,0
+2020-03-13,Manitoba,0
+2020-03-14,Manitoba,0
+2020-03-15,Manitoba,0
+2020-03-16,Manitoba,0
+2020-03-17,Manitoba,0
+2020-03-18,Manitoba,0
+2020-03-19,Manitoba,0
+2020-03-20,Manitoba,0
+2020-03-21,Manitoba,0
+2020-03-22,Manitoba,0
+2020-03-23,Manitoba,0
+2020-03-24,Manitoba,0
+2020-03-25,Manitoba,0
+2020-03-26,Manitoba,0
+2020-03-27,Manitoba,1
+2020-03-28,Manitoba,1
+2020-03-29,Manitoba,3
+2020-03-30,Manitoba,3
+2020-03-31,Manitoba,5
+2020-04-01,Manitoba,5
+2020-04-02,Manitoba,12
+2020-04-03,Manitoba,13
+2020-04-04,Manitoba,19
+2020-04-05,Manitoba,19
+2020-04-06,Manitoba,19
+2020-04-07,Manitoba,24
+2020-04-08,Manitoba,72
+2020-04-09,Manitoba,79
+2020-04-10,Manitoba,96
+2020-04-11,Manitoba,100
+2020-04-12,Manitoba,100
+2020-04-13,Manitoba,103
+2020-04-14,Manitoba,103
+2020-04-15,Manitoba,113
+2020-04-16,Manitoba,126
+2020-04-17,Manitoba,137
+2020-01-25,NL,0
+2020-01-26,NL,0
+2020-01-27,NL,0
+2020-01-28,NL,0
+2020-01-29,NL,0
+2020-01-30,NL,0
+2020-01-31,NL,0
+2020-02-01,NL,0
+2020-02-02,NL,0
+2020-02-03,NL,0
+2020-02-04,NL,0
+2020-02-05,NL,0
+2020-02-06,NL,0
+2020-02-07,NL,0
+2020-02-08,NL,0
+2020-02-09,NL,0
+2020-02-10,NL,0
+2020-02-11,NL,0
+2020-02-12,NL,0
+2020-02-13,NL,0
+2020-02-14,NL,0
+2020-02-15,NL,0
+2020-02-16,NL,0
+2020-02-17,NL,0
+2020-02-18,NL,0
+2020-02-19,NL,0
+2020-02-20,NL,0
+2020-02-21,NL,0
+2020-02-22,NL,0
+2020-02-23,NL,0
+2020-02-24,NL,0
+2020-02-25,NL,0
+2020-02-26,NL,0
+2020-02-27,NL,0
+2020-02-28,NL,0
+2020-02-29,NL,0
+2020-03-01,NL,0
+2020-03-02,NL,0
+2020-03-03,NL,0
+2020-03-04,NL,0
+2020-03-05,NL,0
+2020-03-06,NL,0
+2020-03-07,NL,0
+2020-03-08,NL,0
+2020-03-09,NL,0
+2020-03-10,NL,0
+2020-03-11,NL,0
+2020-03-12,NL,0
+2020-03-13,NL,0
+2020-03-14,NL,0
+2020-03-15,NL,0
+2020-03-16,NL,0
+2020-03-17,NL,0
+2020-03-18,NL,0
+2020-03-19,NL,0
+2020-03-20,NL,0
+2020-03-21,NL,0
+2020-03-22,NL,0
+2020-03-23,NL,0
+2020-03-24,NL,0
+2020-03-25,NL,0
+2020-03-26,NL,0
+2020-03-27,NL,1
+2020-03-28,NL,4
+2020-03-29,NL,4
+2020-03-30,NL,8
+2020-03-31,NL,8
+2020-04-01,NL,11
+2020-04-02,NL,11
+2020-04-03,NL,12
+2020-04-04,NL,19
+2020-04-05,NL,29
+2020-04-06,NL,34
+2020-04-07,NL,51
+2020-04-08,NL,76
+2020-04-09,NL,98
+2020-04-10,NL,106
+2020-04-11,NL,123
+2020-04-12,NL,132
+2020-04-13,NL,136
+2020-04-14,NL,152
+2020-04-15,NL,162
+2020-04-16,NL,173
+2020-04-17,NL,179
+2020-01-25,NWT,0
+2020-01-26,NWT,0
+2020-01-27,NWT,0
+2020-01-28,NWT,0
+2020-01-29,NWT,0
+2020-01-30,NWT,0
+2020-01-31,NWT,0
+2020-02-01,NWT,0
+2020-02-02,NWT,0
+2020-02-03,NWT,0
+2020-02-04,NWT,0
+2020-02-05,NWT,0
+2020-02-06,NWT,0
+2020-02-07,NWT,0
+2020-02-08,NWT,0
+2020-02-09,NWT,0
+2020-02-10,NWT,0
+2020-02-11,NWT,0
+2020-02-12,NWT,0
+2020-02-13,NWT,0
+2020-02-14,NWT,0
+2020-02-15,NWT,0
+2020-02-16,NWT,0
+2020-02-17,NWT,0
+2020-02-18,NWT,0
+2020-02-19,NWT,0
+2020-02-20,NWT,0
+2020-02-21,NWT,0
+2020-02-22,NWT,0
+2020-02-23,NWT,0
+2020-02-24,NWT,0
+2020-02-25,NWT,0
+2020-02-26,NWT,0
+2020-02-27,NWT,0
+2020-02-28,NWT,0
+2020-02-29,NWT,0
+2020-03-01,NWT,0
+2020-03-02,NWT,0
+2020-03-03,NWT,0
+2020-03-04,NWT,0
+2020-03-05,NWT,0
+2020-03-06,NWT,0
+2020-03-07,NWT,0
+2020-03-08,NWT,0
+2020-03-09,NWT,0
+2020-03-10,NWT,0
+2020-03-11,NWT,0
+2020-03-12,NWT,0
+2020-03-13,NWT,0
+2020-03-14,NWT,0
+2020-03-15,NWT,0
+2020-03-16,NWT,0
+2020-03-17,NWT,0
+2020-03-18,NWT,0
+2020-03-19,NWT,0
+2020-03-20,NWT,0
+2020-03-21,NWT,0
+2020-03-22,NWT,0
+2020-03-23,NWT,0
+2020-03-24,NWT,0
+2020-03-25,NWT,0
+2020-03-26,NWT,0
+2020-03-27,NWT,0
+2020-03-28,NWT,0
+2020-03-29,NWT,0
+2020-03-30,NWT,0
+2020-03-31,NWT,0
+2020-04-01,NWT,0
+2020-04-02,NWT,0
+2020-04-03,NWT,1
+2020-04-04,NWT,1
+2020-04-05,NWT,1
+2020-04-06,NWT,1
+2020-04-07,NWT,1
+2020-04-08,NWT,1
+2020-04-09,NWT,1
+2020-04-10,NWT,1
+2020-04-11,NWT,1
+2020-04-12,NWT,1
+2020-04-13,NWT,2
+2020-04-14,NWT,2
+2020-04-15,NWT,2
+2020-04-16,NWT,2
+2020-04-17,NWT,3
+2020-01-25,New Brunswick,0
+2020-01-26,New Brunswick,0
+2020-01-27,New Brunswick,0
+2020-01-28,New Brunswick,0
+2020-01-29,New Brunswick,0
+2020-01-30,New Brunswick,0
+2020-01-31,New Brunswick,0
+2020-02-01,New Brunswick,0
+2020-02-02,New Brunswick,0
+2020-02-03,New Brunswick,0
+2020-02-04,New Brunswick,0
+2020-02-05,New Brunswick,0
+2020-02-06,New Brunswick,0
+2020-02-07,New Brunswick,0
+2020-02-08,New Brunswick,0
+2020-02-09,New Brunswick,0
+2020-02-10,New Brunswick,0
+2020-02-11,New Brunswick,0
+2020-02-12,New Brunswick,0
+2020-02-13,New Brunswick,0
+2020-02-14,New Brunswick,0
+2020-02-15,New Brunswick,0
+2020-02-16,New Brunswick,0
+2020-02-17,New Brunswick,0
+2020-02-18,New Brunswick,0
+2020-02-19,New Brunswick,0
+2020-02-20,New Brunswick,0
+2020-02-21,New Brunswick,0
+2020-02-22,New Brunswick,0
+2020-02-23,New Brunswick,0
+2020-02-24,New Brunswick,0
+2020-02-25,New Brunswick,0
+2020-02-26,New Brunswick,0
+2020-02-27,New Brunswick,0
+2020-02-28,New Brunswick,0
+2020-02-29,New Brunswick,0
+2020-03-01,New Brunswick,0
+2020-03-02,New Brunswick,0
+2020-03-03,New Brunswick,0
+2020-03-04,New Brunswick,0
+2020-03-05,New Brunswick,0
+2020-03-06,New Brunswick,0
+2020-03-07,New Brunswick,0
+2020-03-08,New Brunswick,0
+2020-03-09,New Brunswick,0
+2020-03-10,New Brunswick,0
+2020-03-11,New Brunswick,0
+2020-03-12,New Brunswick,0
+2020-03-13,New Brunswick,0
+2020-03-14,New Brunswick,0
+2020-03-15,New Brunswick,0
+2020-03-16,New Brunswick,0
+2020-03-17,New Brunswick,0
+2020-03-18,New Brunswick,0
+2020-03-19,New Brunswick,0
+2020-03-20,New Brunswick,0
+2020-03-21,New Brunswick,0
+2020-03-22,New Brunswick,0
+2020-03-23,New Brunswick,0
+2020-03-24,New Brunswick,0
+2020-03-25,New Brunswick,0
+2020-03-26,New Brunswick,0
+2020-03-27,New Brunswick,1
+2020-03-28,New Brunswick,2
+2020-03-29,New Brunswick,2
+2020-03-30,New Brunswick,2
+2020-03-31,New Brunswick,9
+2020-04-01,New Brunswick,14
+2020-04-02,New Brunswick,22
+2020-04-03,New Brunswick,25
+2020-04-04,New Brunswick,28
+2020-04-05,New Brunswick,28
+2020-04-06,New Brunswick,30
+2020-04-07,New Brunswick,39
+2020-04-08,New Brunswick,50
+2020-04-09,New Brunswick,53
+2020-04-10,New Brunswick,60
+2020-04-11,New Brunswick,70
+2020-04-12,New Brunswick,70
+2020-04-13,New Brunswick,74
+2020-04-14,New Brunswick,75
+2020-04-15,New Brunswick,77
+2020-04-16,New Brunswick,80
+2020-04-17,New Brunswick,83
+2020-01-25,Nova Scotia,0
+2020-01-26,Nova Scotia,0
+2020-01-27,Nova Scotia,0
+2020-01-28,Nova Scotia,0
+2020-01-29,Nova Scotia,0
+2020-01-30,Nova Scotia,0
+2020-01-31,Nova Scotia,0
+2020-02-01,Nova Scotia,0
+2020-02-02,Nova Scotia,0
+2020-02-03,Nova Scotia,0
+2020-02-04,Nova Scotia,0
+2020-02-05,Nova Scotia,0
+2020-02-06,Nova Scotia,0
+2020-02-07,Nova Scotia,0
+2020-02-08,Nova Scotia,0
+2020-02-09,Nova Scotia,0
+2020-02-10,Nova Scotia,0
+2020-02-11,Nova Scotia,0
+2020-02-12,Nova Scotia,0
+2020-02-13,Nova Scotia,0
+2020-02-14,Nova Scotia,0
+2020-02-15,Nova Scotia,0
+2020-02-16,Nova Scotia,0
+2020-02-17,Nova Scotia,0
+2020-02-18,Nova Scotia,0
+2020-02-19,Nova Scotia,0
+2020-02-20,Nova Scotia,0
+2020-02-21,Nova Scotia,0
+2020-02-22,Nova Scotia,0
+2020-02-23,Nova Scotia,0
+2020-02-24,Nova Scotia,0
+2020-02-25,Nova Scotia,0
+2020-02-26,Nova Scotia,0
+2020-02-27,Nova Scotia,0
+2020-02-28,Nova Scotia,0
+2020-02-29,Nova Scotia,0
+2020-03-01,Nova Scotia,0
+2020-03-02,Nova Scotia,0
+2020-03-03,Nova Scotia,0
+2020-03-04,Nova Scotia,0
+2020-03-05,Nova Scotia,0
+2020-03-06,Nova Scotia,0
+2020-03-07,Nova Scotia,0
+2020-03-08,Nova Scotia,0
+2020-03-09,Nova Scotia,0
+2020-03-10,Nova Scotia,0
+2020-03-11,Nova Scotia,0
+2020-03-12,Nova Scotia,0
+2020-03-13,Nova Scotia,0
+2020-03-14,Nova Scotia,0
+2020-03-15,Nova Scotia,0
+2020-03-16,Nova Scotia,0
+2020-03-17,Nova Scotia,0
+2020-03-18,Nova Scotia,0
+2020-03-19,Nova Scotia,0
+2020-03-20,Nova Scotia,0
+2020-03-21,Nova Scotia,0
+2020-03-22,Nova Scotia,0
+2020-03-23,Nova Scotia,0
+2020-03-24,Nova Scotia,1
+2020-03-25,Nova Scotia,2
+2020-03-26,Nova Scotia,2
+2020-03-27,Nova Scotia,3
+2020-03-28,Nova Scotia,4
+2020-03-29,Nova Scotia,7
+2020-03-30,Nova Scotia,10
+2020-03-31,Nova Scotia,10
+2020-04-01,Nova Scotia,11
+2020-04-02,Nova Scotia,16
+2020-04-03,Nova Scotia,21
+2020-04-04,Nova Scotia,50
+2020-04-05,Nova Scotia,53
+2020-04-06,Nova Scotia,64
+2020-04-07,Nova Scotia,67
+2020-04-08,Nova Scotia,78
+2020-04-09,Nova Scotia,84
+2020-04-10,Nova Scotia,95
+2020-04-11,Nova Scotia,97
+2020-04-12,Nova Scotia,99
+2020-04-13,Nova Scotia,104
+2020-04-14,Nova Scotia,127
+2020-04-15,Nova Scotia,140
+2020-04-16,Nova Scotia,179
+2020-04-17,Nova Scotia,181
+2020-01-25,Nunavut,0
+2020-01-26,Nunavut,0
+2020-01-27,Nunavut,0
+2020-01-28,Nunavut,0
+2020-01-29,Nunavut,0
+2020-01-30,Nunavut,0
+2020-01-31,Nunavut,0
+2020-02-01,Nunavut,0
+2020-02-02,Nunavut,0
+2020-02-03,Nunavut,0
+2020-02-04,Nunavut,0
+2020-02-05,Nunavut,0
+2020-02-06,Nunavut,0
+2020-02-07,Nunavut,0
+2020-02-08,Nunavut,0
+2020-02-09,Nunavut,0
+2020-02-10,Nunavut,0
+2020-02-11,Nunavut,0
+2020-02-12,Nunavut,0
+2020-02-13,Nunavut,0
+2020-02-14,Nunavut,0
+2020-02-15,Nunavut,0
+2020-02-16,Nunavut,0
+2020-02-17,Nunavut,0
+2020-02-18,Nunavut,0
+2020-02-19,Nunavut,0
+2020-02-20,Nunavut,0
+2020-02-21,Nunavut,0
+2020-02-22,Nunavut,0
+2020-02-23,Nunavut,0
+2020-02-24,Nunavut,0
+2020-02-25,Nunavut,0
+2020-02-26,Nunavut,0
+2020-02-27,Nunavut,0
+2020-02-28,Nunavut,0
+2020-02-29,Nunavut,0
+2020-03-01,Nunavut,0
+2020-03-02,Nunavut,0
+2020-03-03,Nunavut,0
+2020-03-04,Nunavut,0
+2020-03-05,Nunavut,0
+2020-03-06,Nunavut,0
+2020-03-07,Nunavut,0
+2020-03-08,Nunavut,0
+2020-03-09,Nunavut,0
+2020-03-10,Nunavut,0
+2020-03-11,Nunavut,0
+2020-03-12,Nunavut,0
+2020-03-13,Nunavut,0
+2020-03-14,Nunavut,0
+2020-03-15,Nunavut,0
+2020-03-16,Nunavut,0
+2020-03-17,Nunavut,0
+2020-03-18,Nunavut,0
+2020-03-19,Nunavut,0
+2020-03-20,Nunavut,0
+2020-03-21,Nunavut,0
+2020-03-22,Nunavut,0
+2020-03-23,Nunavut,0
+2020-03-24,Nunavut,0
+2020-03-25,Nunavut,0
+2020-03-26,Nunavut,0
+2020-03-27,Nunavut,0
+2020-03-28,Nunavut,0
+2020-03-29,Nunavut,0
+2020-03-30,Nunavut,0
+2020-03-31,Nunavut,0
+2020-04-01,Nunavut,0
+2020-04-02,Nunavut,0
+2020-04-03,Nunavut,0
+2020-04-04,Nunavut,0
+2020-04-05,Nunavut,0
+2020-04-06,Nunavut,0
+2020-04-07,Nunavut,0
+2020-04-08,Nunavut,0
+2020-04-09,Nunavut,0
+2020-04-10,Nunavut,0
+2020-04-11,Nunavut,0
+2020-04-12,Nunavut,0
+2020-04-13,Nunavut,0
+2020-04-14,Nunavut,0
+2020-04-15,Nunavut,0
+2020-04-16,Nunavut,0
+2020-04-17,Nunavut,0
+2020-01-25,Ontario,0
+2020-01-26,Ontario,0
+2020-01-27,Ontario,0
+2020-01-28,Ontario,0
+2020-01-29,Ontario,0
+2020-01-30,Ontario,0
+2020-01-31,Ontario,0
+2020-02-01,Ontario,0
+2020-02-02,Ontario,0
+2020-02-03,Ontario,0
+2020-02-04,Ontario,0
+2020-02-05,Ontario,0
+2020-02-06,Ontario,0
+2020-02-07,Ontario,0
+2020-02-08,Ontario,0
+2020-02-09,Ontario,0
+2020-02-10,Ontario,0
+2020-02-11,Ontario,0
+2020-02-12,Ontario,1
+2020-02-13,Ontario,1
+2020-02-14,Ontario,1
+2020-02-15,Ontario,1
+2020-02-16,Ontario,1
+2020-02-17,Ontario,1
+2020-02-18,Ontario,1
+2020-02-19,Ontario,1
+2020-02-20,Ontario,2
+2020-02-21,Ontario,3
+2020-02-22,Ontario,3
+2020-02-23,Ontario,3
+2020-02-24,Ontario,3
+2020-02-25,Ontario,3
+2020-02-26,Ontario,3
+2020-02-27,Ontario,3
+2020-02-28,Ontario,3
+2020-02-29,Ontario,3
+2020-03-01,Ontario,3
+2020-03-02,Ontario,3
+2020-03-03,Ontario,3
+2020-03-04,Ontario,3
+2020-03-05,Ontario,4
+2020-03-06,Ontario,4
+2020-03-07,Ontario,4
+2020-03-08,Ontario,4
+2020-03-09,Ontario,5
+2020-03-10,Ontario,5
+2020-03-11,Ontario,6
+2020-03-12,Ontario,6
+2020-03-13,Ontario,6
+2020-03-14,Ontario,6
+2020-03-15,Ontario,6
+2020-03-16,Ontario,6
+2020-03-17,Ontario,6
+2020-03-18,Ontario,6
+2020-03-19,Ontario,7
+2020-03-20,Ontario,7
+2020-03-21,Ontario,9
+2020-03-22,Ontario,14
+2020-03-23,Ontario,14
+2020-03-24,Ontario,16
+2020-03-25,Ontario,21
+2020-03-26,Ontario,23
+2020-03-27,Ontario,26
+2020-03-28,Ontario,27
+2020-03-29,Ontario,31
+2020-03-30,Ontario,465
+2020-03-31,Ontario,592
+2020-04-01,Ontario,760
+2020-04-02,Ontario,916
+2020-04-03,Ontario,1126
+2020-04-04,Ontario,1352
+2020-04-05,Ontario,1590
+2020-04-06,Ontario,1786
+2020-04-07,Ontario,1991
+2020-04-08,Ontario,2285
+2020-04-09,Ontario,2538
+2020-04-10,Ontario,2843
+2020-04-11,Ontario,3148
+2020-04-12,Ontario,3424
+2020-04-13,Ontario,3690
+2020-04-14,Ontario,3966
+2020-04-15,Ontario,4348
+2020-04-16,Ontario,4693
+2020-04-17,Ontario,5090
+2020-01-25,PEI,0
+2020-01-26,PEI,0
+2020-01-27,PEI,0
+2020-01-28,PEI,0
+2020-01-29,PEI,0
+2020-01-30,PEI,0
+2020-01-31,PEI,0
+2020-02-01,PEI,0
+2020-02-02,PEI,0
+2020-02-03,PEI,0
+2020-02-04,PEI,0
+2020-02-05,PEI,0
+2020-02-06,PEI,0
+2020-02-07,PEI,0
+2020-02-08,PEI,0
+2020-02-09,PEI,0
+2020-02-10,PEI,0
+2020-02-11,PEI,0
+2020-02-12,PEI,0
+2020-02-13,PEI,0
+2020-02-14,PEI,0
+2020-02-15,PEI,0
+2020-02-16,PEI,0
+2020-02-17,PEI,0
+2020-02-18,PEI,0
+2020-02-19,PEI,0
+2020-02-20,PEI,0
+2020-02-21,PEI,0
+2020-02-22,PEI,0
+2020-02-23,PEI,0
+2020-02-24,PEI,0
+2020-02-25,PEI,0
+2020-02-26,PEI,0
+2020-02-27,PEI,0
+2020-02-28,PEI,0
+2020-02-29,PEI,0
+2020-03-01,PEI,0
+2020-03-02,PEI,0
+2020-03-03,PEI,0
+2020-03-04,PEI,0
+2020-03-05,PEI,0
+2020-03-06,PEI,0
+2020-03-07,PEI,0
+2020-03-08,PEI,0
+2020-03-09,PEI,0
+2020-03-10,PEI,0
+2020-03-11,PEI,0
+2020-03-12,PEI,0
+2020-03-13,PEI,0
+2020-03-14,PEI,0
+2020-03-15,PEI,0
+2020-03-16,PEI,0
+2020-03-17,PEI,0
+2020-03-18,PEI,0
+2020-03-19,PEI,0
+2020-03-20,PEI,0
+2020-03-21,PEI,0
+2020-03-22,PEI,0
+2020-03-23,PEI,0
+2020-03-24,PEI,0
+2020-03-25,PEI,0
+2020-03-26,PEI,1
+2020-03-27,PEI,1
+2020-03-28,PEI,1
+2020-03-29,PEI,1
+2020-03-30,PEI,1
+2020-03-31,PEI,1
+2020-04-01,PEI,3
+2020-04-02,PEI,3
+2020-04-03,PEI,4
+2020-04-04,PEI,6
+2020-04-05,PEI,6
+2020-04-06,PEI,8
+2020-04-07,PEI,8
+2020-04-08,PEI,17
+2020-04-09,PEI,17
+2020-04-10,PEI,17
+2020-04-11,PEI,17
+2020-04-12,PEI,17
+2020-04-13,PEI,23
+2020-04-14,PEI,23
+2020-04-15,PEI,23
+2020-04-16,PEI,23
+2020-04-17,PEI,23
+2020-01-25,Quebec,0
+2020-01-26,Quebec,0
+2020-01-27,Quebec,0
+2020-01-28,Quebec,0
+2020-01-29,Quebec,0
+2020-01-30,Quebec,0
+2020-01-31,Quebec,0
+2020-02-01,Quebec,0
+2020-02-02,Quebec,0
+2020-02-03,Quebec,0
+2020-02-04,Quebec,0
+2020-02-05,Quebec,0
+2020-02-06,Quebec,0
+2020-02-07,Quebec,0
+2020-02-08,Quebec,0
+2020-02-09,Quebec,0
+2020-02-10,Quebec,0
+2020-02-11,Quebec,0
+2020-02-12,Quebec,0
+2020-02-13,Quebec,0
+2020-02-14,Quebec,0
+2020-02-15,Quebec,0
+2020-02-16,Quebec,0
+2020-02-17,Quebec,0
+2020-02-18,Quebec,0
+2020-02-19,Quebec,0
+2020-02-20,Quebec,0
+2020-02-21,Quebec,0
+2020-02-22,Quebec,0
+2020-02-23,Quebec,0
+2020-02-24,Quebec,0
+2020-02-25,Quebec,0
+2020-02-26,Quebec,0
+2020-02-27,Quebec,0
+2020-02-28,Quebec,0
+2020-02-29,Quebec,0
+2020-03-01,Quebec,0
+2020-03-02,Quebec,0
+2020-03-03,Quebec,0
+2020-03-04,Quebec,0
+2020-03-05,Quebec,0
+2020-03-06,Quebec,0
+2020-03-07,Quebec,0
+2020-03-08,Quebec,0
+2020-03-09,Quebec,0
+2020-03-10,Quebec,0
+2020-03-11,Quebec,0
+2020-03-12,Quebec,0
+2020-03-13,Quebec,0
+2020-03-14,Quebec,0
+2020-03-15,Quebec,0
+2020-03-16,Quebec,0
+2020-03-17,Quebec,0
+2020-03-18,Quebec,2
+2020-03-19,Quebec,2
+2020-03-20,Quebec,2
+2020-03-21,Quebec,5
+2020-03-22,Quebec,5
+2020-03-23,Quebec,5
+2020-03-24,Quebec,5
+2020-03-25,Quebec,7
+2020-03-26,Quebec,9
+2020-03-27,Quebec,47
+2020-03-28,Quebec,51
+2020-03-29,Quebec,106
+2020-03-30,Quebec,109
+2020-03-31,Quebec,115
+2020-04-01,Quebec,188
+2020-04-02,Quebec,260
+2020-04-03,Quebec,367
+2020-04-04,Quebec,512
+2020-04-05,Quebec,558
+2020-04-06,Quebec,732
+2020-04-07,Quebec,870
+2020-04-08,Quebec,1002
+2020-04-09,Quebec,1328
+2020-04-10,Quebec,1582
+2020-04-11,Quebec,1852
+2020-04-12,Quebec,2073
+2020-04-13,Quebec,2342
+2020-04-14,Quebec,2581
+2020-04-15,Quebec,2978
+2020-04-16,Quebec,3450
+2020-04-17,Quebec,3756
+2020-01-25,Saskatchewan,0
+2020-01-26,Saskatchewan,0
+2020-01-27,Saskatchewan,0
+2020-01-28,Saskatchewan,0
+2020-01-29,Saskatchewan,0
+2020-01-30,Saskatchewan,0
+2020-01-31,Saskatchewan,0
+2020-02-01,Saskatchewan,0
+2020-02-02,Saskatchewan,0
+2020-02-03,Saskatchewan,0
+2020-02-04,Saskatchewan,0
+2020-02-05,Saskatchewan,0
+2020-02-06,Saskatchewan,0
+2020-02-07,Saskatchewan,0
+2020-02-08,Saskatchewan,0
+2020-02-09,Saskatchewan,0
+2020-02-10,Saskatchewan,0
+2020-02-11,Saskatchewan,0
+2020-02-12,Saskatchewan,0
+2020-02-13,Saskatchewan,0
+2020-02-14,Saskatchewan,0
+2020-02-15,Saskatchewan,0
+2020-02-16,Saskatchewan,0
+2020-02-17,Saskatchewan,0
+2020-02-18,Saskatchewan,0
+2020-02-19,Saskatchewan,0
+2020-02-20,Saskatchewan,0
+2020-02-21,Saskatchewan,0
+2020-02-22,Saskatchewan,0
+2020-02-23,Saskatchewan,0
+2020-02-24,Saskatchewan,0
+2020-02-25,Saskatchewan,0
+2020-02-26,Saskatchewan,0
+2020-02-27,Saskatchewan,0
+2020-02-28,Saskatchewan,0
+2020-02-29,Saskatchewan,0
+2020-03-01,Saskatchewan,0
+2020-03-02,Saskatchewan,0
+2020-03-03,Saskatchewan,0
+2020-03-04,Saskatchewan,0
+2020-03-05,Saskatchewan,0
+2020-03-06,Saskatchewan,0
+2020-03-07,Saskatchewan,0
+2020-03-08,Saskatchewan,0
+2020-03-09,Saskatchewan,0
+2020-03-10,Saskatchewan,0
+2020-03-11,Saskatchewan,0
+2020-03-12,Saskatchewan,0
+2020-03-13,Saskatchewan,0
+2020-03-14,Saskatchewan,0
+2020-03-15,Saskatchewan,0
+2020-03-16,Saskatchewan,0
+2020-03-17,Saskatchewan,0
+2020-03-18,Saskatchewan,0
+2020-03-19,Saskatchewan,0
+2020-03-20,Saskatchewan,0
+2020-03-21,Saskatchewan,0
+2020-03-22,Saskatchewan,0
+2020-03-23,Saskatchewan,0
+2020-03-24,Saskatchewan,0
+2020-03-25,Saskatchewan,0
+2020-03-26,Saskatchewan,3
+2020-03-27,Saskatchewan,3
+2020-03-28,Saskatchewan,4
+2020-03-29,Saskatchewan,8
+2020-03-30,Saskatchewan,16
+2020-03-31,Saskatchewan,23
+2020-04-01,Saskatchewan,33
+2020-04-02,Saskatchewan,39
+2020-04-03,Saskatchewan,51
+2020-04-04,Saskatchewan,58
+2020-04-05,Saskatchewan,70
+2020-04-06,Saskatchewan,84
+2020-04-07,Saskatchewan,91
+2020-04-08,Saskatchewan,106
+2020-04-09,Saskatchewan,118
+2020-04-10,Saskatchewan,139
+2020-04-11,Saskatchewan,151
+2020-04-12,Saskatchewan,168
+2020-04-13,Saskatchewan,182
+2020-04-14,Saskatchewan,191
+2020-04-15,Saskatchewan,209
+2020-04-16,Saskatchewan,223
+2020-04-17,Saskatchewan,232
+2020-01-25,Yukon,0
+2020-01-26,Yukon,0
+2020-01-27,Yukon,0
+2020-01-28,Yukon,0
+2020-01-29,Yukon,0
+2020-01-30,Yukon,0
+2020-01-31,Yukon,0
+2020-02-01,Yukon,0
+2020-02-02,Yukon,0
+2020-02-03,Yukon,0
+2020-02-04,Yukon,0
+2020-02-05,Yukon,0
+2020-02-06,Yukon,0
+2020-02-07,Yukon,0
+2020-02-08,Yukon,0
+2020-02-09,Yukon,0
+2020-02-10,Yukon,0
+2020-02-11,Yukon,0
+2020-02-12,Yukon,0
+2020-02-13,Yukon,0
+2020-02-14,Yukon,0
+2020-02-15,Yukon,0
+2020-02-16,Yukon,0
+2020-02-17,Yukon,0
+2020-02-18,Yukon,0
+2020-02-19,Yukon,0
+2020-02-20,Yukon,0
+2020-02-21,Yukon,0
+2020-02-22,Yukon,0
+2020-02-23,Yukon,0
+2020-02-24,Yukon,0
+2020-02-25,Yukon,0
+2020-02-26,Yukon,0
+2020-02-27,Yukon,0
+2020-02-28,Yukon,0
+2020-02-29,Yukon,0
+2020-03-01,Yukon,0
+2020-03-02,Yukon,0
+2020-03-03,Yukon,0
+2020-03-04,Yukon,0
+2020-03-05,Yukon,0
+2020-03-06,Yukon,0
+2020-03-07,Yukon,0
+2020-03-08,Yukon,0
+2020-03-09,Yukon,0
+2020-03-10,Yukon,0
+2020-03-11,Yukon,0
+2020-03-12,Yukon,0
+2020-03-13,Yukon,0
+2020-03-14,Yukon,0
+2020-03-15,Yukon,0
+2020-03-16,Yukon,0
+2020-03-17,Yukon,0
+2020-03-18,Yukon,0
+2020-03-19,Yukon,0
+2020-03-20,Yukon,0
+2020-03-21,Yukon,0
+2020-03-22,Yukon,0
+2020-03-23,Yukon,0
+2020-03-24,Yukon,0
+2020-03-25,Yukon,0
+2020-03-26,Yukon,0
+2020-03-27,Yukon,0
+2020-03-28,Yukon,0
+2020-03-29,Yukon,0
+2020-03-30,Yukon,0
+2020-03-31,Yukon,0
+2020-04-01,Yukon,3
+2020-04-02,Yukon,3
+2020-04-03,Yukon,4
+2020-04-04,Yukon,4
+2020-04-05,Yukon,4
+2020-04-06,Yukon,4
+2020-04-07,Yukon,4
+2020-04-08,Yukon,4
+2020-04-09,Yukon,4
+2020-04-10,Yukon,4
+2020-04-11,Yukon,4
+2020-04-12,Yukon,4
+2020-04-13,Yukon,6
+2020-04-14,Yukon,6
+2020-04-15,Yukon,6
+2020-04-16,Yukon,6
+2020-04-17,Yukon,7
